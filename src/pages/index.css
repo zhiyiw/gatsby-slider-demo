@@ -1,0 +1,9 @@
+.slider-container {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.slider-component-container {
+    padding: 30px;
+}
